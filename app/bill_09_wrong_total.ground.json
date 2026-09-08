@@ -1,0 +1,25 @@
+{
+  "restaurant_name": "Sample Dhaba",
+  "bill_number": "0417",
+  "date": "2026-08-14",
+  "line_items": [
+    {"id": "item_1", "name": "Butter Chicken", "quantity": 1, "unit_price": 320, "line_total": 320,
+     "name_confidence": 1.0, "price_confidence": 1.0, "qty_confidence": 1.0, "source_photo_index": 0},
+    {"id": "item_2", "name": "Garlic Naan", "quantity": 4, "unit_price": 45, "line_total": 180,
+     "name_confidence": 1.0, "price_confidence": 1.0, "qty_confidence": 1.0, "source_photo_index": 0},
+    {"id": "item_3", "name": "Coke", "quantity": 2, "unit_price": 60, "line_total": 120,
+     "name_confidence": 1.0, "price_confidence": 1.0, "qty_confidence": 1.0, "source_photo_index": 0}
+  ],
+  "subtotal": 620,
+  "subtotal_confidence": 1.0,
+  "discount": 0,
+  "discount_confidence": 1.0,
+  "service_charge": 31,
+  "service_charge_confidence": 1.0,
+  "cgst": 15.5,
+  "sgst": 15.5,
+  "other_tax": 0,
+  "tax_confidence": 1.0,
+  "printed_total": 700,
+  "printed_total_confidence": 1.0
+}
